@@ -1,2 +1,2 @@
 # DSA
-learning dsa through C
+learning dsa 
